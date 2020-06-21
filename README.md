@@ -1,19 +1,20 @@
-# OCR
-Optical Character Recognition
+# Hack Jaipur 
 
-The aim of this project is to develop such a tool which takes a PDF file as input and extract characters (alphabets, digits, symbols) from it. It can be used for meeting summarisers or as a record which can be edited because pdf editing is a cumbersome and expensive task.
+Team Name :
+# Runtime Terror
 
-Required Installations in Ubuntu
-# pip3 install PIL
-# pip3 install pytesseract
-# pip3 install pdf2image
-# sudo apt-get install tesseract-ocr
 
-Input File:
-Pdf (.pdf)
+# Name of Project
+Multi Office Summarizer
 
-Intermediate file being generated is a .jpeg file
+# Tagline
+An abstractive summarizer for office needs
 
-Output File:
-Text Document (.txt)
+# The problem it solves
+It is used to summarise meetings by converting speech to text. The text file is then sent to the summariser to generate a summary. We have also built an optical charcter recognition system so that we can extract text data from pdf and convert it to a txt file and this txt file will also be fed to the summarizer. 
+
+# Challenges we ran into
+Running  the Tesseract and other related libraies we ran into dependency issues and finally we overcame it by using Linux and was not working with Windows.  
+# Technologies we used
+Python , HTML5 , CSS3 , Tensorflow , NLTK , PIL , Pillow , Pandas , Numpy , Tesseract
 
