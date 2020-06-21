@@ -1,6 +1,7 @@
 # OCR
 Optical Character Recognition
-he aim of this project is to develop such a tool which takes a PDF file as input and extract characters (alphabets, digits, symbols) from it. It can be used for meeting summarisers or as a record which can be edited because pdf editing is a cumbersome and expensive task.
+
+The aim of this project is to develop such a tool which takes a PDF file as input and extract characters (alphabets, digits, symbols) from it. It can be used for meeting summarisers or as a record which can be edited because pdf editing is a cumbersome and expensive task.
 
 Required Installations in Ubuntu
 # pip3 install PIL
